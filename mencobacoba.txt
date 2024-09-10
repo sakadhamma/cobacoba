@@ -1,1 +1,3 @@
 ini isi dari file
+menambah isi file (edit)
+sama kaya atas
